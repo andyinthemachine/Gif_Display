@@ -1,0 +1,55 @@
+
+
+
+
+body{
+    background-image: url("../images/alpine_racing.jpg");  
+    background-repeat: no-repeat;
+    background-size: 960px 780px;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 20px;
+    color: #0b305e;
+    background-color: rgb(5, 5, 5)
+}
+
+
+#start_game, #end_game{
+    width: 100px;
+    height: 50px;
+    border-radius: 8px;
+    color: blue;
+    background-color: rgb(194, 48, 48);
+    font-size: 30px;
+    font-style: bold;
+    margin: 10px 0 0 80px;
+}
+
+#end_game{
+    width: 75px;
+    height: 35px;
+    border-radius: 8px;
+    color: blue;
+    background-color: rgb(194, 48, 48);
+    font-size: 20px;
+    font-style: bold;
+    margin: 10px 0 0 80px;
+}
+
+
+#main_content, #sub_heading, #done_button{
+    padding-left: 300px;
+} 
+
+h1 {
+    padding-left: 215px;
+} 
+
+/* h2 {
+    padding-left: 300px;
+}  */
+
+h3 {
+    padding-left: 50px;
+} 
+
