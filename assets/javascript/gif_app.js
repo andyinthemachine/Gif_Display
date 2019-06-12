@@ -19,7 +19,6 @@ $("#submit").on("click", function (event) {
   var $new_instrument = $("#instrument_text").val().trim();
   instruments.push($new_instrument);
 
-  // console.log($new_instrument);
   $("#instrument_text").val("");
 
   display_buttons();
@@ -46,12 +45,6 @@ $("#instrument_buttons").on("click", "button", function () {
       var $instrument_div = $("<div>");
       var $p = $("<p>").text("Rating: " + results[i].rating);
 
-      // var $radio_button = $("<input type = 'radio' />");
-      // $radio_button.attr({
-      //         name: "question_" + i,
-      //         id: "ans_" + i,
-      //         value: questions[i].answers[j]
-      // });
 
       var $instrument_image = $("<img>");
       $instrument_image.attr({
