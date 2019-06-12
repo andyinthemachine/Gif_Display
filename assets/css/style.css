@@ -1,55 +1,50 @@
 
 
 
-/* 
+
 body{
-    background-image: url("../images/alpine_racing.jpg");  
-    background-repeat: no-repeat;
-    background-size: 960px 780px;
     font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
-    font-size: 16px;
+    font-size: 20px;
     line-height: 20px;
-    color: #0b305e;
+    color: #cad3dd;
     background-color: rgb(5, 5, 5)
 }
 
 
-#start_game, #end_game{
-    width: 100px;
-    height: 50px;
-    border-radius: 8px;
-    color: blue;
-    background-color: rgb(194, 48, 48);
-    font-size: 30px;
-    font-style: bold;
-    margin: 10px 0 0 80px;
-}
-
-#end_game{
+button {
     width: 75px;
-    height: 35px;
+    height: 25px;
     border-radius: 8px;
-    color: blue;
+    color: rgb(209, 209, 221);
     background-color: rgb(194, 48, 48);
-    font-size: 20px;
+    font-size: 15px;
     font-style: bold;
-    margin: 10px 0 0 80px;
+    margin: 20px 10px;
 }
 
+#submit{
+    float: right;
+    width: 125px;
+    height: 25px;
+    border-radius: 8px;
+    color: rgb(203, 203, 218);
+    background-color: rgb(194, 48, 48);
+    font-size: 15px;
+    font-style: bold;
+    margin: 30px 10px;
+} 
 
-#main_content, #sub_heading, #done_button{
-    padding-left: 300px;
-}  */
 
-/* h1 {
-    padding-left: 215px;
-}  */
+#instrument_text{
+    float: right;
+    width: 125px;
+    height: 23px;
+    border-radius: 8px;
+    color: rgb(208, 208, 223);
+    background-color: rgb(126, 113, 113);
+    font-size: 15px;
+    font-style: bold;
+    margin: 30px 10px;
+} 
 
-/* h2 {
-    padding-left: 300px;
-}  */
-
-/* h3 {
-    padding-left: 50px;
-}  */
 
