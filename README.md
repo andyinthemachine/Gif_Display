@@ -1,4 +1,4 @@
-Theme: Yet to be determined
+Theme: musical instruments
 
 Game to practice Gifphy API and JQuery/Ajax. 
 

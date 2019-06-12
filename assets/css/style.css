@@ -1,7 +1,7 @@
 
 
 
-
+/* 
 body{
     background-image: url("../images/alpine_racing.jpg");  
     background-repeat: no-repeat;
@@ -39,17 +39,17 @@ body{
 
 #main_content, #sub_heading, #done_button{
     padding-left: 300px;
-} 
+}  */
 
-h1 {
+/* h1 {
     padding-left: 215px;
-} 
+}  */
 
 /* h2 {
     padding-left: 300px;
 }  */
 
-h3 {
+/* h3 {
     padding-left: 50px;
-} 
+}  */
 
